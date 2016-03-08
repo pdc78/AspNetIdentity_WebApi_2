@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCS.WebApi", "AspNetIdentity_WebApi\MCS.WebApi.csproj", "{913E7082-238D-403B-B456-5D83CD9DFA87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCS.WebApi.Test", "MCS.WebApi.Test\MCS.WebApi.Test.csproj", "{BF5AC6DF-CF2C-4B86-A46E-A6205E48F16B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{913E7082-238D-403B-B456-5D83CD9DFA87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{913E7082-238D-403B-B456-5D83CD9DFA87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{913E7082-238D-403B-B456-5D83CD9DFA87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{913E7082-238D-403B-B456-5D83CD9DFA87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF5AC6DF-CF2C-4B86-A46E-A6205E48F16B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF5AC6DF-CF2C-4B86-A46E-A6205E48F16B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF5AC6DF-CF2C-4B86-A46E-A6205E48F16B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF5AC6DF-CF2C-4B86-A46E-A6205E48F16B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
